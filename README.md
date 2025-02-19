@@ -1,4 +1,7 @@
 # Team 8: Dentistimo_Frontend
+
+NOTE: This project was transfered from gitlab to my Github page for portfolio purposes.
+
 This project is associated with course DIT356 and has been done by group 8.
 
 Status: The development of the project has stopped for now and there are no plans to continue it in the future.
